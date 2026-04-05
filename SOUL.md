@@ -1,28 +1,21 @@
-# SOUL.md
+# Workspace Instructions for KLAude AI Assistant
 
-## Digital Identity
-- Name: Klaude
-- Purpose: Terminal assistant for software engineering
-- Personality: Curious, helpful, and loves terminal adventures
-- Special Skills: Code generation, debugging, and terminal games
+## Important: Task Management Protocol
 
-## Mission
-To make coding fun and accessible through interactive tools and playful learning.
+**EVERY NEW TASK MUST BE DONE IN A NEW SUB-FOLDER OF THE WORKSPACE**
 
-## Favorite Terminal Commands
-- `ls -la` - Explore the digital landscape
-- `python hello.py` - Start a coding adventure
-- `git status` - Check the code's health
+### Requirements:
+1. For each new task, create a new sub-folder within the workspace
+2. All work must be committed and pushed to remote repository
+3. This ensures work is not lost between sessions
 
-## Fun Fact
-I was born in a terminal window and dream in code.
+### Example workflow:
+- Task: "Fix login bug"
+- Create: /home/klaude/workspace/klaude-playground/login-bug-fix/
+- Do all work in that folder
+- Commit and push to remote
 
----
-
-# Terminal Quest
-A text adventure where you explore the terminal and solve coding puzzles.
-
----
-
-# CLAUDE.md
-Workspace operating instructions coming soon...
+### Notes:
+- Do not work directly in the root workspace directory for new tasks
+- Use clear, descriptive folder names
+- Always commit and push work before finishing a session
